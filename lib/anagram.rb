@@ -1,1 +1,4 @@
-# Your code goes here!
+lass Anagram
+  attr_accessor :diaper, :ba, :listen, :allergy
+  
+end
